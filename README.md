@@ -1,7 +1,7 @@
 
 - 👋 Hi, I’m @VassilenaKost
 - 🌱 Currently learning Software Engineering with C# at Software University Bulgaria - Softuni
-- 📫 You can reach me via email @ vassilenakostadinova@gmail.com or on my LinkedIn profile - 
+- 📫 You can reach me via email @ vassilenakostadinova@gmail.com or on my LinkedIn profile -  www.linkedin.com/in/vasilena-kostadinova
 - Successfully completed:
 ✔️ C# Programming Basics
 ✔️ C# Fundamentals
